@@ -1,0 +1,5 @@
+{
+    "require" : {
+         "imagine/Imagine" : "0.3.*"
+    }
+}
