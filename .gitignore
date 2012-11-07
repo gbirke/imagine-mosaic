@@ -1,0 +1,8 @@
+# Ignore installed libs
+vendor/*
+
+# Ignore images in the same directory
+*.jpg
+*.png
+*.gif
+
